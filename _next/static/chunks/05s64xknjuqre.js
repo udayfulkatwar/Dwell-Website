@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,41864,e=>{"use strict";var t=e.i(46816),i=e.i(54292),a=e.i(23070),o=e.i(8149);let r={...{renderer:e.i(54505).createDomVisualElement,...a.animations,...o.gestureAnimations},...t.drag,...i.layout};e.s(["default",0,r],41864)}]);

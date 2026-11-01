@@ -1,0 +1,26 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/42onvq6nokjl2.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:I[97367,["$4"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$4"],"$f"]
+11:"MetadataBoundary"
+12:I[97367,["$4"],"$11"]
+13:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","meta",null,{"httpEquiv":"refresh","content":"0;url=https://docs.google.com/forms/d/e/1FAIpQLSdHwPMO0z8AM3mDrAIltEnqp94rFHiRYape7Id0WM7KCsESmg/viewform"}],["$","section",null,{"className":"_6A1vqW_section _6A1vqW_tone-warm","children":["$","div",null,{"className":"_6A1vqW_container","children":[["$","header",null,{"className":"_6A1vqW_heading","children":[["$","p",null,{"className":"t-label _6A1vqW_eyebrow","children":"Start Your Project"}],["$","h1",null,{"className":"t-h2 _6A1vqW_title","children":[["$","span","0",{"className":"_6A1vqW_titleLine","children":["Opening the form…",null]}]]}],["$","div",null,{"className":"t-lead _6A1vqW_lead","children":"If it doesn't open by itself, use the button below."}]]}],["$","div",null,{"style":{"marginTop":"var(--space-6)"},"children":["$","a",null,{"href":"https://docs.google.com/forms/d/e/1FAIpQLSdHwPMO0z8AM3mDrAIltEnqp94rFHiRYape7Id0WM7KCsESmg/viewform","className":"_8RiFmG_button _8RiFmG_lg","children":["Start Your Project",["$","svg",null,{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":1.6,"strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":true,"className":"_8RiFmG_icon","children":[null,["$","path",null,{"d":"M5 12h14M13 6l6 6-6 6"}]]}]]}]}]]}]}]],null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$9"}}]]
+2:[["children",{"s":"start-project","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(site)","c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FAFAF8"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Start Your Project — ASTRA DWELL"}],["$","meta","1",{"name":"description","content":"ASTRA DWELL is an architectural visualization studio that turns 2D architectural plans into interactive 3D property experiences — browser-based walkthroughs, material customization and day-to-night lighting previews."}],["$","meta","2",{"name":"application-name","content":"ASTRA DWELL"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","link","4",{"rel":"canonical","href":"https://dwell.astragrp.net/"}],["$","meta","5",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","6",{"property":"og:title","content":"ASTRA DWELL — Experience Spaces Before They're Built."}],["$","meta","7",{"property":"og:description","content":"ASTRA DWELL is an architectural visualization studio that turns 2D architectural plans into interactive 3D property experiences — browser-based walkthroughs, material customization and day-to-night lighting previews."}],["$","meta","8",{"property":"og:url","content":"https://dwell.astragrp.net/"}],["$","meta","9",{"property":"og:site_name","content":"ASTRA DWELL"}],["$","meta","10",{"property":"og:locale","content":"en"}],["$","meta","11",{"property":"og:image","content":"https://dwell.astragrp.net/images/og/astra-dwell-og.jpg"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"ASTRA DWELL — Experience Spaces Before They're Built."}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"ASTRA DWELL — Experience Spaces Before They're Built."}],["$","meta","18",{"name":"twitter:description","content":"ASTRA DWELL is an architectural visualization studio that turns 2D architectural plans into interactive 3D property experiences — browser-based walkthroughs, material customization and day-to-night lighting previews."}],["$","meta","19",{"name":"twitter:image","content":"https://dwell.astragrp.net/images/og/astra-dwell-og.jpg"}],["$","link","20",{"rel":"icon","href":"/icon.svg?icon.3jvts8sorowr5.svg","sizes":"any","type":"image/svg+xml"}],["$","link","21",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1s_ninhjo7whp.png","sizes":"180x180","type":"image/png"}],["$","$L13","22",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$9"}},"a":"$@15","u":"$@16","b":"YD5oTzuBfjTF5ZVABh5SI"}
+d:null
+16:true
+9:300
+9:C
+15:0
+7:"$undefined"
+14:"$undefined"
+e:"$undefined"

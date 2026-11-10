@@ -37,7 +37,7 @@ An AI design engine for residential projects. The builder gives a brief in plain
 
 How it is built:
 
-- **Sourced, not guessed.** Every law and safety number comes from a rule table or a knowledge card with a recorded source, and is computed in code. The knowledge base holds 184 cards today, each with a source and a verification status.
+- **Sourced, not guessed.** Every law and safety number comes from a rule table or a knowledge card with a recorded source, and is computed in code. The knowledge base holds 241 cards today, each with a source and a verification status.
 - **Engine first, model second.** Each stage works as deterministic code before a large language model is added on top of it.
 - **Tested.** 59 automated test suites cover the pipeline, including planted clashes the engine must catch.
 - **Honest output.** Plans are concept and schematic. Approval and structural sign-off stay with a licensed architect and structural engineer.

@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://dwell.astragrp.net
+Sitemap: https://dwell.astragrp.net/sitemap.xml

@@ -1,0 +1,6 @@
+# Security contact for ASTRA DWELL (RFC 9116). Report suspected vulnerabilities in
+# https://dwell.astragrp.net/ by email. Please do not test in ways that harm the site or its visitors.
+Contact: mailto:founder@astragrp.net
+Expires: 2027-10-14T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://dwell.astragrp.net/.well-known/security.txt
